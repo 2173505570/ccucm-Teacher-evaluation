@@ -1,1 +1,1 @@
-# ccucm-Teacher-evaluation
+# 长春中医药大学教师评价脚本
